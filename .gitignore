@@ -1,0 +1,6 @@
+my_env/
+
+.env
+.idea/
+.ipynb_checkpoints
+.DS_Store
